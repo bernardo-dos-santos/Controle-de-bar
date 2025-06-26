@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using Controle_de_bar.Models;
+using ControleDeBar.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Controle_de_bar.Controllers
+namespace ControleDeBar.Controllers
 {
     public class HomeController : Controller
     {

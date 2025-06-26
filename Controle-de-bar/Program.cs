@@ -1,4 +1,4 @@
-namespace Controle_de_bar
+namespace ControleDeBar
 {
     public class Program
     {

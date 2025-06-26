@@ -1,4 +1,4 @@
-namespace Controle_de_bar.Models
+namespace ControleDeBar.Models
 {
     public class ErrorViewModel
     {

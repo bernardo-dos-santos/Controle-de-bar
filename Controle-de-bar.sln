@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle-de-bar", "Controle-de-bar\Controle-de-bar.csproj", "{731BA60A-F98D-4C4A-8C28-B709BC9FC6EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeBar", "Controle-de-bar\ControleDeBar.csproj", "{731BA60A-F98D-4C4A-8C28-B709BC9FC6EE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Apresentação", "1.Apresentação", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle-de-bar.Dominio", "Controle-de-bar.Dominio\Controle-de-bar.Dominio.csproj", "{577CA659-CA18-48C3-AA0A-B377DF8C366B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeBar.Dominio", "Controle-de-bar.Dominio\ControleDeBar.Dominio.csproj", "{577CA659-CA18-48C3-AA0A-B377DF8C366B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Dominio", "2.Dominio", "{8FAB8E25-0752-4874-98AA-62E608397963}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Infraestrutura", "3.Infraestrutura", "{40EC6BE6-F519-436A-A681-6DE86CA0EDFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle-de-bar.Infraestrutura.Arquivos", "Controle-de-bar.Infraestrutura.Arquivos\Controle-de-bar.Infraestrutura.Arquivos.csproj", "{10F71F27-BC25-4594-9270-042B26126635}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeBar.Infraestrutura.Arquivos", "Controle-de-bar.Infraestrutura.Arquivos\ControleDeBar.Infraestrutura.Arquivos.csproj", "{10F71F27-BC25-4594-9270-042B26126635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
